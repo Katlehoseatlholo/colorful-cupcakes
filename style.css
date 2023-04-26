@@ -30,21 +30,21 @@ body {
 .cupcake_box {
     padding: 1em;
     margin: 1em;
-    border-radius: 0.5em;
+    border-radius: 0.9em;
 }
 
 .cupcake1 {
-    background-color: #ff006e;
+    background-color: olivedrab;
 }
 
 .cupcake2 {
-    background-color: #fb5607;
+    background-color: orchid;
 }
 
 .cupcake3 {
-    background-color: #8338ec;
+    background-color: goldenrod;
 }
 
 .blue {
-    background-color: #3a86ff;
+    background-color: blue;
 }
